@@ -10,10 +10,15 @@ The ability to type in in-game chat is retained by toggling the Q hotkey when a 
 
 List of Hotkeys:
   b: Toggles swiftbow mode on and off. Use only while melee weapon is equipped or in a menu.
+  
   n: Quick fix if charged attack is not working for melee.
+  
   mousewheel up: Will send left mouse button (light attack.)
+  
   mousewheel down: Will send Shift (dodge.)
+  
   page down: Suspends the script.
+  
   end: Terminates the script process.
   
 Known limitations:
