@@ -3,7 +3,7 @@ Vermintide 2 Comprehensive Macro
 
 This set of hotkeys for Vermintide 2 is based on the AutoHotkey script by j_sat https://www.twitch.tv/j_sat youtube.com/jsat7
 
-Most of j_sats original hotkeys are included and additional functionality has been introduced such as 'Swiftbow mode' and the suspension of all hotkeys outside the Vermintide 2 window.
+Most of j_sats original hotkeys are included and additional functionality has been introduced such as 'Swiftbow mode' and the suspension of all hotkeys while outside the Vermintide 2 window.
 
 NOTE: Switch weapon must be bound to T. Q toggles the hotkey and switches weapons by sending T (Line 61- vt2macro.ahk)
 The ability to type in in-game chat is retained by toggling the Q hotkey when a default chat-box key is pressed.
