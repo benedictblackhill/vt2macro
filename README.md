@@ -1,7 +1,7 @@
 # vt2macro
 Vermintide 2 Comprehensive Macro
 
-This set of hotkeys for Vermintide 2 is based on the AutoHotkey script by j_sat https://www.twitch.tv/j_sat youtube.com/jsat7
+This set of hotkeys for Vermintide 2 is based on the AutoHotkey script by [j_sat](youtube.com/jsat7 "YouTube")
 
 Most of j_sats original hotkeys are included and additional functionality has been introduced such as 'Swiftbow mode' and the suspension of all hotkeys while outside the Vermintide 2 window.
 
