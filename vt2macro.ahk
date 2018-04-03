@@ -70,7 +70,7 @@ y::
 	Send {y}
 	return
 
-; Use wheeldown to dodge. Shift is the normal in game bind.
+; Use wheeldown to dodge if dodge is bound to shift.
 *WheelDown::
 	sendinput {shift}
 	return
