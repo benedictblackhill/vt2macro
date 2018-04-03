@@ -5,7 +5,7 @@ This set of hotkeys for Vermintide 2 is based on the AutoHotkey script by [j_sat
 
 Most of j_sats original hotkeys are included and additional functionality has been introduced such as 'Swiftbow mode' and the suspension of all hotkeys while outside the Vermintide 2 window.
 
-NOTE: Switch weapon must be bound to t. q toggles the Swiftbow mode autoclicker and switches weapons by sending T (Line 61.)
+NOTE: Switch weapon must be bound to T. Q toggles the Swiftbow mode autoclicker and switches weapons by sending T (Line 61.)
 The ability to type in in-game chat is retained by toggling the alphanumeric hotkeys (q,b,n) when a default chat key is pressed.
 
 List of Hotkeys:
