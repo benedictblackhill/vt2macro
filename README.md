@@ -7,6 +7,10 @@ Most of j_sats original hotkeys are included and additional functionality has be
 
 The ability to type in in-game chat is retained by toggling the alphanumeric hotkeys (q,b,n) when a default chat key is pressed.
 
+AutoHotkey is required to run this script.
+
+To download AutoHotkey visit http://www.autohotkey.com/
+
 List of Hotkeys:
 - q: Weapon swap. Turns off autoclicker to allow charged attacks with melee weapon.
 - b: Toggles swiftbow mode on and off. Use while melee weapon is equipped or in a menu.
