@@ -42,7 +42,7 @@ b::
 q::
 	If SwiftOn
 		Hotkey, LButton, Toggle
-	Send {t}
+	Send {q}
 	return
 
 ; Quick fix for Swiftbow mode being applied to the melee weapon instead of the ranged weapon.
