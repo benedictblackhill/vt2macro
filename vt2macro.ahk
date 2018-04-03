@@ -56,24 +56,29 @@ Enter::
 	Hotkey, b, Toggle
 	Hotkey, n, Toggle
 	Send {Enter}
+	return
 NumpadEnter::
 	Hotkey, q, Toggle
 	Hotkey, b, Toggle
 	Hotkey, n, Toggle
 	Send {NumpadEnter}
+	return
 y::
 	Hotkey, q, Toggle
 	Hotkey, b, Toggle
 	Hotkey, n, Toggle
 	Send {y}
+	return
 
 ; Use wheeldown to dodge. Shift is the normal in game bind.
 *WheelDown::
 	sendinput {shift}
+	return
 
 ; Use wheelup to spam light attack to prevent repetitive strain injury.
 *WheelUp::
 	MouseClick
+	return
 
 ; Page Down suspends the script.
 PgDn::
