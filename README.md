@@ -14,14 +14,14 @@ To download AutoHotkey visit http://www.autohotkey.com/
 List of Hotkeys:
 - q: Weapon swap. Turns off autoclicker to allow charged attacks with melee weapon.
 - b: Toggles swiftbow mode on and off. Use while melee weapon is equipped or in a menu.
-- n: Quick fix if charged attack is not working for melee. This would happen if b was pressed while ranged weapon was equipped.
+- n: Quick fix if charged attack is not working for melee. This would happen if b was pressed while ranged weapon was selected.
 - mousewheel up: Will send left mouse button (light attack.)
 - mousewheel down: Will send Shift (dodge.)
 - page down: Suspends the script.
 - end: Terminates the script process.
 
 Known limitations:
-- Swiftbow mode will be applied to the melee weapon if a map is ended with the ranged weapon equipped.
+- Swiftbow mode will be applied to the melee weapon if a map is ended with the ranged weapon selected.
 - If b:: is used to toggle Swiftmode on while the ranged weapon is equipped, Swiftbow mode will be applied to the melee weapon and n:: will have to be used.
 - If weapons are switched during the 0.9s tooltip of b::, Swiftbow mode will be applied to the melee weapon and n:: will have to be used.
 - Any other scenario in which the ranged weapon is swapped to the melee weapon without Q being pressed will result in Swiftbow mode being applied to the melee weapon
