@@ -10,7 +10,6 @@ MsgBox, 0, Vermintide 2 Comprehensive Macro,
 (
 Swiftbow mode is OFF.
 Press B with your melee weapon equipped to toggle.
-Note: Weapon swap must be bound to T.
 
 If you can't charged attack with your melee weapon, press N.
 
