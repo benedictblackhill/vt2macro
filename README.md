@@ -9,11 +9,11 @@ NOTE: Switch weapon must be bound to T. Q toggles the Swiftbow mode autoclicker 
 The ability to type in in-game chat is retained by toggling the alphanumeric hotkeys (q,b,n) when a default chat key is pressed.
 
 List of Hotkeys:
+- q: Weapon swap. Turns off autoclicker to allow charged attacks with melee weapon.
 - b: Toggles swiftbow mode on and off. Use only while melee weapon is equipped or in a menu.
 - n: Quick fix if charged attack is not working for melee.
 - mousewheel up: Will send left mouse button (light attack.)
 - mousewheel down: Will send Shift (dodge.)
-- q: Weapon swap. Turns off autoclicker to allow charged attacks with melee weapon.
 - page down: Suspends the script.
 - end: Terminates the script process.
 
