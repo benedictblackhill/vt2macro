@@ -5,13 +5,12 @@ This set of hotkeys for Vermintide 2 is based on the AutoHotkey script by [j_sat
 
 Most of j_sats original hotkeys are included and additional functionality has been introduced such as 'Swiftbow mode' and the suspension of all hotkeys while outside the Vermintide 2 window.
 
-NOTE: Switch weapon must be bound to T. Q switches weapons by sending T (Line 61) and toggles the Swiftbow mode autoclicker.
 The ability to type in in-game chat is retained by toggling the alphanumeric hotkeys (q,b,n) when a default chat key is pressed.
 
 List of Hotkeys:
 - q: Weapon swap. Turns off autoclicker to allow charged attacks with melee weapon.
-- b: Toggles swiftbow mode on and off. Use only while melee weapon is equipped or in a menu.
-- n: Quick fix if charged attack is not working for melee.
+- b: Toggles swiftbow mode on and off. Use while melee weapon is equipped or in a menu.
+- n: Quick fix if charged attack is not working for melee. This would happen if b was pressed while ranged weapon was equipped.
 - mousewheel up: Will send left mouse button (light attack.)
 - mousewheel down: Will send Shift (dodge.)
 - page down: Suspends the script.
