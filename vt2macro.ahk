@@ -54,14 +54,17 @@ n::
 Enter::
 	Hotkey, q, Toggle
 	Hotkey, b, Toggle
+	Hotkey, n, Toggle
 	Send {Enter}
 NumpadEnter::
 	Hotkey, q, Toggle
 	Hotkey, b, Toggle
+	Hotkey, n, Toggle
 	Send {NumpadEnter}
 y::
 	Hotkey, q, Toggle
 	Hotkey, b, Toggle
+	Hotkey, n, Toggle
 	Send {y}
 
 ; Use wheeldown to dodge. Shift is the normal in game bind.
